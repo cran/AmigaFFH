@@ -1,7 +1,7 @@
-5410ffc537fc2c92666db372018f1cec *DESCRIPTION
+661c7105a95f28560a350279684eed9d *DESCRIPTION
 fb06eda85301841946230f4b8af831fa *NAMESPACE
-d4af5c000f55a1e73262ab8c2e7aa955 *NEWS
-e9ed9fc61d6b3e64ff0c38e23ed0b2e1 *R/AmigaFFH-package.r
+27336a7af7f21dfeeebaebaea0d53841 *NEWS
+f14a749387a1ba99df78b32097efb654 *R/AmigaFFH-package.r
 a46305aa2019ce818d97d57c17eff2ef *R/adfExplorer.clone.r
 c16f3dc291bdb0a54e996132f633ed86 *R/basic.r
 f6038f892697e70d953b50acc7c9d344 *R/bitmapfont.r
@@ -9,7 +9,7 @@ f6038f892697e70d953b50acc7c9d344 *R/bitmapfont.r
 d942552be9e7c42bc6969b7ebdd9192a *R/generic_support.r
 f40dcf717585ed098a94f86c2bbe1416 *R/hardwareSprites.r
 1a3b94e862ecc2612d926978424b71b9 *R/iff.0.r
-cd83f4d6d9be7151b050e3d31c7bacb4 *R/iff.8svx.r
+814f33d57f941837ae176b0c5cc3f721 *R/iff.8svx.r
 0e5eaa76d07936e838081dbe642b38f7 *R/iff.ilbm.r
 2ff93d4ea1c69d254f95ee38d7b1e13c *R/imports.r
 f64068e3b60e4c3075f3b6f7e82dc058 *R/sysdata.rda
@@ -31,7 +31,7 @@ c3754dc937bb0ab5d21ecb926c6e91a5 *man/AmigaBasic.reserved.Rd
 e6147b778cd9e108fd547860865e5018 *man/AmigaBasicBMAP.Rd
 4a8e1d3bacd446ca7b627d0297045aab *man/AmigaBasicShape.Rd
 e31ebc8a5d72b1901e9ca07606342823 *man/AmigaBitmapFont.Rd
-5d7b17c7b6b190c6014f1639d01e0a79 *man/AmigaFFH-package.Rd
+2571634e4b491c45804d87015c80bd50 *man/AmigaFFH-package.Rd
 c65feb40cad996ffc5fcde1bb94d2951 *man/AmigaIcon.Rd
 e81fd26309209b558cd674c1aa45a61b *man/ExtractBasic.Rd
 a2757d994a3341056f40166c1f942c29 *man/IFFChunk-class.Rd
@@ -64,7 +64,7 @@ bc8ec02df5d8d101fc394b1cd614fb40 *man/index.colours.Rd
 71689b296d4ce637f37bda99dee4f5cc *man/interpretIFFChunk.Rd
 e1b150022a103dc270f5d367c315a7c8 *man/names.AmigaBasic.Rd
 cac5790c2e9bc4bbe0920682af526472 *man/packBitmap.Rd
-6add4a30efb2b9ae82f85c47a16136c1 *man/play.Rd
+7d48f0e853f16b9c2bb697db045bc52d *man/play.Rd
 94cf8b35055665cc1596b018045619e6 *man/plot.Rd
 13996349f34bef03913cd89416064540 *man/rasterToAmigaBasicShape.Rd
 49833bcb870f957784d1dba07aa92c4b *man/rasterToAmigaBitmapFont.Rd
